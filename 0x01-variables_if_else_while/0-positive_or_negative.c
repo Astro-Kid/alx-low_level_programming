@@ -2,8 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * Main - This is the main operation
- * Return - return 0
+ * main - This is the main operation
+ * Return: return 0
  */
 
 /* more headers goes there */
