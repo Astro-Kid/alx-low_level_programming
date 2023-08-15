@@ -1,4 +1,4 @@
-#include "holberton.b"
+#include "Bupe.h"
 
 /**
  * main - Prints Holberton
@@ -6,15 +6,10 @@
  */
 int main(void)
 {
-	_putchar('H');
-	_putchar('o');
-	_putchar('l');
-	_putchar('b');
-	_putchar('e');
-	_putchar('r');
-	_putchar('t');
-	_putchar('o');
-	_putchar('n');
+	_putchar('B');
+	_putchar('U');
+	_putchar('P');
+	_putchar('E');
 	_putchar('\n');
 
 	return (0);
