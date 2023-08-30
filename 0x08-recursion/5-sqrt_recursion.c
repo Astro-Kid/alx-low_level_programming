@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 
-int _sqrt(int n,int i);
+int _sqrt(int n, int i);
 /**
  * _sqrt_recursion - return the root
  * @n: number to calculated
