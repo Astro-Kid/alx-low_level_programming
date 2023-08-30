@@ -1,6 +1,14 @@
 #include "main.h"
 #include <stdio.h>
 
+
+int _sqrt(int n,int i);
+/**
+ * _sqrt_recursion - return the root
+ * @n: number to calculated
+ * Return: sqrt root
+ */
+
 int _sqrt_recursion(int n)
 {
 	return (_sqrt(n, 1));
@@ -22,5 +30,5 @@ int _sqrt(int n, int i)
 	if (sqrt == n)
 		return (i);
 
-	return (_sqrt (n, i + 1));
+	return (_sqrt(n, i + 1));
 }
