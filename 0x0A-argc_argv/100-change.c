@@ -29,7 +29,7 @@ int main(int argc, char **argv)
 		{
 			for (i = 0; i < sizeof(cents[i]); i++)
 			{
-				if (total >+ cents[i])
+				if (total >= cents[i])
 				{
 					count += total / cents[i];
 					total = total % cents[i];
