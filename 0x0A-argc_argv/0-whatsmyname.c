@@ -2,7 +2,7 @@
 
 /**
  * main - print its name, followed by a new line.
- * @argc: argument count
+ * @argc: argument count.
  * @argv: arguments
  *
  * Return: 0
